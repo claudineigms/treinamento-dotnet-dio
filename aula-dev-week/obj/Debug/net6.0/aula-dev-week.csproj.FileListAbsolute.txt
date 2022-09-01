@@ -25,3 +25,30 @@ C:\Users\COMPRAS\Desktop\TREINAMENTO DIO\aula-dev-week\obj\Debug\net6.0\refint\a
 C:\Users\COMPRAS\Desktop\TREINAMENTO DIO\aula-dev-week\obj\Debug\net6.0\aula-dev-week.pdb
 C:\Users\COMPRAS\Desktop\TREINAMENTO DIO\aula-dev-week\obj\Debug\net6.0\aula-dev-week.genruntimeconfig.cache
 C:\Users\COMPRAS\Desktop\TREINAMENTO DIO\aula-dev-week\obj\Debug\net6.0\ref\aula-dev-week.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\appsettings.json
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\aula-dev-week.exe
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\aula-dev-week.deps.json
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\aula-dev-week.runtimeconfig.json
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\aula-dev-week.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\aula-dev-week.pdb
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\aula-dev-week.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\aula-dev-week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\aula-dev-week.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\aula-dev-week.AssemblyInfo.cs
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\aula-dev-week.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\aula-dev-week.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\aula-dev-week.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\scopedcss\bundle\aula-dev-week.styles.css
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\aula-dev-week.csproj.CopyComplete
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\aula-dev-week.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\refint\aula-dev-week.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\aula-dev-week.pdb
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\aula-dev-week.genruntimeconfig.cache
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\ref\aula-dev-week.dll
