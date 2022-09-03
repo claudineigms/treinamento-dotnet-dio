@@ -52,3 +52,10 @@ C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotne
 C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\aula-dev-week.pdb
 C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\aula-dev-week.genruntimeconfig.cache
 C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\obj\Debug\net6.0\ref\aula-dev-week.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\Humanizer.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\claud\OneDrive\01 - CONHECIMENTO\5. Programação\dio\treinamento-dotnet-dio\aula-dev-week\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
